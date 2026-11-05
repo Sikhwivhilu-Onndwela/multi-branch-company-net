@@ -5,7 +5,7 @@ A small company network with a head office (HQ) and two branches, built in Cisco
 **Skills shown:** VLANs and trunking, inter-VLAN routing (router-on-a-stick), DHCP, DNS, static routing between sites, access control lists (ACLs), SSH, port-security, network documentation, ping/traceroute verification.
 
 ## Topology
-![Topology](screenshots/topology.png)
+![Topology](file%20list/screenshots/topology.png)
 
 ## Scope and design  decisions
 - Head office has four VLANs on one switch. Each branch has a single LAN.
